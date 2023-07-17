@@ -1,0 +1,16 @@
+FirstName,LastName,ID,Email,PhoneNumber,Physics,Calculus,ComputerScience,History,IndustrialEngineering,AverageGrade
+Sarah,Smith,789,sarah.smith@example.com,555-9012,78,85,80,75,82,80
+Sarah,Smith,789,sarah.smith@example.com,555-9012,78,85,80,75,82,80
+Jane,Doe,456,janedoe@example.com,0987654321,80,70,60,50,40,60
+Sarah,Smith,789,sarah.smith@example.com,555-9012,78,85,80,75,82,80
+Sarah,Smith,789,sarah.smith@example.com,555-9012,78,85,80,75,82,80
+John,Doe,12345,john.doe@example.com,555-5555,90,80,85,75,70,80
+Jane,Doe,67890,jane.doe@example.com,555-5555,85,90,80,70,75,80
+John,Doe,12345,johndoe@example.com,555-5555,90,85,80,95,75,85
+John,Doe,12345,johndoe@example.com,555-1234,95,87,92,79,85,87
+John,Doe,12345,john.doe@example.com,555-5555,90,80,85,75,70,80
+Jane,Doe,67890,jane.doe@example.com,555-5555,85,90,80,70,75,80
+John,Doe,12345,john.doe@example.com,555-5555,90,80,85,75,70,80
+Jane,Doe,67890,jane.doe@example.com,555-5555,85,90,80,70,75,80
+John,Doe,12345,johndoe@example.com,555-1234,95,87,92,79,85,87
+John,Doe,12345,johndoe@example.com,555-5555,90,85,80,95,75,85
