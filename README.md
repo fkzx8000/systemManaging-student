@@ -1,4 +1,4 @@
-# systemManaging-student
+# systemManaging-student-In-Full-Hebrew
 
 **System Documentation: Student Tracking Management System**
 "Documentary images from the system below"
@@ -39,6 +39,11 @@ Each version of the sorting function is saved as a comment within the code. Only
 In conclusion, the Student Tracking Management System is a comprehensive software application developed in C# language using the TDD methodology. It provides features for manual and automatic entry of student information, sorting student records based on grade point average, and generating student reports. The system undergoes rigorous testing to ensure its reliability, and adherence to design principles is crucial.
 
 login screen:
+
 ![LoginS](https://github.com/fkzx8000/systemManaging-student/assets/117019431/44fe62c7-140e-43e8-b35b-08a7aa9ec0a5)
+
+
+
 Main screen:
+
 ![HomeS](https://github.com/fkzx8000/systemManaging-student/assets/117019431/0264c6fd-62c4-4804-8671-e0e092453f38)
