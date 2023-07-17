@@ -40,10 +40,9 @@ In conclusion, the Student Tracking Management System is a comprehensive softwar
 
 login screen:
 
-![LoginS](https://github.com/fkzx8000/systemManaging-student/assets/117019431/44fe62c7-140e-43e8-b35b-08a7aa9ec0a5)
-
-
+![LoginS](https://github.com/fkzx8000/systemManaging-student/assets/117019431/aeb82c15-4a45-48dc-a2eb-b6e0868f9e57)
 
 Main screen:
 
-![HomeS](https://github.com/fkzx8000/systemManaging-student/assets/117019431/0264c6fd-62c4-4804-8671-e0e092453f38)
+![HomeS](https://github.com/fkzx8000/systemManaging-student/assets/117019431/bcc1f00d-b68e-46b8-808a-9925d11d2e0f)
+
